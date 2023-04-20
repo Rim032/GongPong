@@ -17,3 +17,7 @@ Got bored and decided to create this game in a couple hours. Had a great time ma
 
 Note: If there are any bugs/issue please let me know.
 Graphics were made with the olcPixelGameEngine (https://github.com/OneLoneCoder/olcPixelGameEngine)
+
+![image](https://user-images.githubusercontent.com/45215785/233496070-84f44966-75a8-44e4-804c-3565b7b21d2a.png)
+![image](https://user-images.githubusercontent.com/45215785/233496139-bf2e242d-ec05-4977-b200-b040eac7a2c5.png)
+
