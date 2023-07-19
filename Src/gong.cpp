@@ -110,7 +110,7 @@ private:
 		}
 	}
 
-	void ball_bar_collision_handle(float time, olc::vf2d bar)
+	void ball_bar_collision_handle(float time, const olc::vf2d &bar)
 	{
 		if (ball_pos.x >= bar.x - ball_size && ball_pos.x <= bar.x + (bar_size + ball_size))
 		{
